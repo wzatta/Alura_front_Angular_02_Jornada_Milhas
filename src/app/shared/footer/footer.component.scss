@@ -1,0 +1,32 @@
+.rodape {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+footer {
+  p {
+    color: white;
+
+  }
+}
+
+.rodape__frame03 {
+  display: flex;
+  justify-content: center;
+}
+
+.rodape__frame01 {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+.rodape__figure {
+  margin-left: 0;
+}
