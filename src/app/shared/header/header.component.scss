@@ -1,0 +1,32 @@
+
+.toolbar {
+  background-color: black;
+  padding: 1rem 0;
+  justify-content: space-evenly;
+}
+
+.toolbar__frame01 {
+  display: flex;
+  column-gap: 40px;
+}
+
+.toolbar__frame02 {
+  display: flex;
+  column-gap: 1rem!important;
+}
+
+.toolbar__btn {
+  color: white!important;
+}
+
+.toolbar__btn01 {
+  background-color: #6750A4!important;
+}
+
+.toolbar__btn02 {
+  color: #6750A4!important;
+  border-color: #6750A4!important;
+}
+
+
+
