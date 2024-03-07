@@ -1,0 +1,15 @@
+.form-busca {
+  margin: 40px 0;
+  display: block;
+  .flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin: 1rem 0;
+      }
+  .mat-button-toggle-checked {
+    background-color: #CAC4D0;
+  }
+}
+
